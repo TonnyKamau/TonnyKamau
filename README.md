@@ -6,7 +6,7 @@
 
 Crafting sustainable digital solutions that restore balance through technology.
 
-[![Website](https://img.shields.io/badge/🌍_Website-tonny--kamau.vercel.app-black?style=flat-square)](https://tonny-kamau.greenon.online/)
+[![Website](https://img.shields.io/badge/🌍_Website-tonny--kamau.green.online-black?style=flat-square)](https://tonny-kamau.greenon.online/)
 [![GitHub](https://img.shields.io/badge/GitHub-TonnyKamau-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TonnyKamau)
 [![Twitter](https://img.shields.io/badge/Twitter-@TonnyKamau3-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/TonnyKamau3)
 
@@ -60,7 +60,7 @@ Crafting sustainable digital solutions that restore balance through technology.
 
 ## 🏆 Writing & Talks
 - **Guest Speaker**: Discussed the importance of integrating ethical considerations in tech development at various tech meetups.
-- **Blog**: Regularly write about technology's role in sustainability on my [personal website](https://tonny-kamau.vercel.app/).
+- **Blog**: Regularly write about technology's role in sustainability on my [personal website](https://tonny-kamau.greenon.online/).
 
 ---
 
